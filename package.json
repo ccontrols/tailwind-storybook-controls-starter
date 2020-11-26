@@ -60,7 +60,6 @@
     "@component-controls/storybook": "^1.42.9",
     "@component-controls/viewport-plugin": "^1.42.9",
     "@fullhuman/postcss-purgecss": "^3.0.0",
-    "@storybook/addon-essentials": "^6.1.4",
     "@storybook/preset-create-react-app": "^3.1.5",
     "@storybook/react": "^6.1.4",
     "@types/jest": "^26.0.15",
