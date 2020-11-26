@@ -5,12 +5,14 @@
 /.pnp
 .pnp.js
 tailwind.output.css
+component-controls.js
 
 # testing
 /coverage
 
 # production
 /build
+/storybook-static
 
 # misc
 .DS_Store
